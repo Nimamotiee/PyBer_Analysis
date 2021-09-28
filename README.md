@@ -6,9 +6,20 @@
 
 
 
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results: 
+### Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+* As predicted, the total number of urban rides far surpasses those of suburban and rural categories. 
+* Further, rural rides tend to be higher grossing for the Driver as demand is still relative and supply is low.
+
+
+![name-of-you-image]
+![name-of-you-image]https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png
 
 
 
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+## Summary: 
+### Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+* Expand to more urban areas as higher gross amount of rides
+* Expand your rural base as average ride cost is the highest when compared to other categories.
+* The Rural cities fare is the lowest of the other two city types (Urban and Suburban cities), in addition, fares never intersect.  Knowing that all fares never intersect, we can expand fares and increase business financial income to the company without affecting our rate.
