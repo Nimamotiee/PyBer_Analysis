@@ -12,8 +12,8 @@
 * Further, rural rides tend to be higher grossing for the Driver as demand is still relative and supply is low.
 
 
-![name-of-you-image]
-![name-of-you-image]https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png
+
+![name-of-you-image](https://github.com/Nimamotiee/PyBer_Analysis/blob/main/analysis/deliverable%202%20chart.png)
 
 
 
